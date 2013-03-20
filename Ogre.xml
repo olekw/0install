@@ -19,23 +19,23 @@ world objects and other intuitive classes.
 This package contains the library and plugins.</description>
   <homepage>http://www.ogre3d.org/</homepage>
   <category>Graphics</category>
-  <implementation id="sha1new=f814da145316cd35ad491d3642aa655e867dace7" released="2013-03-20" version="1.8.0-1">
+  <implementation id="sha1new=f814da145316cd35ad491d3642aa655e867dace7" released="2013-03-20" stability="stable" version="1.8.0-1">
     <archive href="http://launchpadlibrarian.net/115194962/libogre-1.8.0_1.8.0-1ubuntu1_i386.deb" size="3345992" type="application/x-deb"/>
   </implementation>
-  <implementation id="sha1new=6a8a0e18d53dfd9f6608f32b66b2c409ac24a012" released="2013-03-20" version="1.8.0-1">
+  <implementation id="sha1new=6a8a0e18d53dfd9f6608f32b66b2c409ac24a012" released="2013-03-20" stability="stable" version="1.8.0-1">
     <archive href="http://launchpadlibrarian.net/115194634/libogre-1.8.0_1.8.0-1ubuntu1_amd64.deb" size="3330512" type="application/x-deb"/>
   </implementation>
 </interface>
 <!-- Base64 Signature
-iQIcBAABAgAGBQJRSXu8AAoJEH2D1AagncHkVowP/0giWLSUGK/sGuMWr/VVLJDkxhAjBa+AaDxQ
-lJzPRrj+pIXFlpYAH281Jbd3WNnlbECCQSlhXjRerL1Q40VJneNeC2ry9CvqEczz3GZPJ0PsIxBN
-HqOgZVxaTxHWiHrQz0Y+7ndwhDYNI4XlDVI6OeCiKe55tL7KdnLWh0YvSPGaS/Mu9qBh74x0qYsy
-KMClA8XscgJOe9y+f5KTD2jl7WMQTr3P6r2EijH9NIH9BEgdXTsSYtWgD82fl58QLTs9HRR1XzV1
-glxUHT0dsJaYoI5T7hyHBY4A6LiEwhl4lJ4DSZldf1n5Q21etne/fi+76epZseZBSFnAy9q1f4hv
-c56tVuE/px4MWpQRfP7tqrgAD34GBMlBaSNAKhNY1kopvFl48TG4BKcd0KtPpdhAXRofDJHCwE89
-9ePo35YXZx+EGZ4L4BIquC58kdmhRlpuqo90bfNoYZHHpbU0gEDwEXSBBzTal+P4gpESY4RHxvhZ
-iEjmbrCHkkboFjxtThEl44OwaI6p7fuCGM4QUO5MxIZr1JKHf6//jnEIwt0Xwj2WdlLLDLxJLsj7
-JLmOKCrF4cvjupNwvQQSTIHdeRkQ/SHXXHQD2QOdEoI+LAwORyrBpBuCLqAPQ9brtj8z+9ogBcFy
-Xd+CIMRPDF3P6JbXguUaohRFXcHPx7grL7JdZQkx
+iQIcBAABAgAGBQJRSXxlAAoJEH2D1AagncHknMoP/jmv3Q510qQNrBXjymaY8/9e1NEhR+GVZdOM
+tD6iLLgGdelfuIt14XmrtwEK9EV8735ukqP2xap4qW2ky++70mJSRH78O5OuxVGsxU9OeVKT1Krh
+v8sN498anAf4K30vrRL1gO+Z8GLMJtAqnFuE+nJEHy47XzxCimMOGKplFbEx5CHoj5bXzFOEuQmF
+/wTkNz5P8YbAEKBIXzeYy9KLGTVDF7WQ5kGxyn3JMyF5gR1LD+H+OlmIrRzT/eK4AcCohYgWmJMN
+r7mddcLDftN7Z3pCi1zQ5YmryN5Nxv8/wZJXp02A1QVw+ltZaW2Qw08StU3IG14k9gpqXWT5onNr
+W/wy4yI29Mix56pu0J5a9i6BBNh5kodYGU/o7+NQEephATJrkSPwV44VvAiZOqL6zsEZAldJv7rp
+GI1bI4zBAYalLIwd1Jfc38ofoiKLRMjP26EAys0wzJmA4GIPYQfaD+/DN0VTMe2GwDLBfTILo1fc
+SjlWScWYBr0OUDMethfX76wr1Wi5dGj7G3RzVstUv3v1DFpVv6timI/v7qBgefqXDT/ThDVxrBJG
+dl8dIkF5/boZXOh01Z9P4Smp+XkWLYF9tRwEQF/zLAQps2E1wzVFrJyudoGBp1pbyR58ksdM5FCy
+HGGluyHIQ/6VPYySbA8PTI7baTrSz1U1BzjuhOa7
 
 -->
