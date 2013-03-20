@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type='text/xsl' href='interface.xsl'?>
-<interface uri="https://github.com/olekw/0install/blob/master/libogre.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="https://github.com/olekw/0install/raw/master/Ogre.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
   <name>libogre</name>
   <summary>3D Object-Oriented Graphics Rendering Engine (libraries)</summary>
   <description>
