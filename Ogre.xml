@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://github.com/olekw/0install/blob/master/libogre.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>libogre</name>
+  <summary>3D Object-Oriented Graphics Rendering Engine (libraries)</summary>
+  <description>
+OGRE (Object-Oriented Graphics Rendering Engine) is a scene-oriented, flexible
+
+3D engine written in C++ designed to make it easier and more intuitive for
+
+developers to produce applications utilising hardware-accelerated 3D
+
+graphics. The class library abstracts all the details of using the underlying
+
+system libraries like Direct3D and OpenGL and provides an interface based on
+
+world objects and other intuitive classes.
+
+This package contains the library and plugins.</description>
+  <homepage>http://www.ogre3d.org/</homepage>
+  <category>Graphics</category>
+  <implementation id="sha1new=f814da145316cd35ad491d3642aa655e867dace7" released="2013-03-20" version="1.8.0-1">
+    <archive href="http://launchpadlibrarian.net/115194962/libogre-1.8.0_1.8.0-1ubuntu1_i386.deb" size="3345992" type="application/x-deb"/>
+  </implementation>
+  <implementation id="sha1new=6a8a0e18d53dfd9f6608f32b66b2c409ac24a012" released="2013-03-20" version="1.8.0-1">
+    <archive href="http://launchpadlibrarian.net/115194634/libogre-1.8.0_1.8.0-1ubuntu1_amd64.deb" size="3330512" type="application/x-deb"/>
+  </implementation>
+</interface>
+<!-- Base64 Signature
+iQIcBAABAgAGBQJRSXJhAAoJEH2D1AagncHkjHEP/iT02kJTFVWcdXveXk6xeWeksJSUnOOP3yZK
+RdrP0+M+udjmxjkHslcqbD9HYbWBotI27/dnwnc7GYbl4ZECxsfpGJRuNucPldYP2tbgBhSK0PS1
+ld4YK2qIok4oGX26TeSGbw2PvlYrdgrZ/J3IfUydSg2Lx8wL1SJwU/U8DDKL0Kr0ON0NjLPuh8ye
+Tkdwu0rO4aIUEZfnDMYfOjHrmBkUIqvylvEAQI8gQVFu6BlCFJ1ciPspvXQGDOg2iFD+ZUjsNnyd
+EtmFc0QF8xqM6IYQt/GKD0A6o9i0LisYa+4sxSNLEloBsNiF4p1paNPDPKfJdLwUORvNy3I9VTyV
+2s4OX6AU/SsRvuCn0eF17jP4Z2uIB/iuTZdq5dsTrQo+eSQq4Pk3WUFEzMHGLHc1pMOmJiyd964n
+9fjmVjonYc5zHprANY96sBZ5dhsihHfU3gZ3MCBmhSuqAhCGAw5/h+6QTBOu8JWgHnlmLxy4VmUI
+u1h6IVdlBTS9VAjOn3WNmQ1JOM4VijPqwDrDta9NxRJIYWmzo6pgWwjvfCImI1rNoFBPynSpLqDK
+UwA6kz3nabB50e7ajsqpNr/sbZwRs6vVYYDZrxxMZA5UuIriFg63vN8Hu3AlDWGV/pygQ3fwjaka
+deDCjerpfkqkRxFIgUHqRqny/n42tLmLGb/vMsRM
+
+-->
